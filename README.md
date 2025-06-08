@@ -1,5 +1,5 @@
-# CLI-fact-checker-using-Gemini-AI-
-# 🔍 Free Fact Checker CLI
+# CLI-fact-checker-using-Gemini-AI
+# 🔍 Free Fact Checker CLI- OSNIT
 
 > **A weekend project that rivals expensive paid fact-checking APIs!**
 
